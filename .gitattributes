@@ -1,0 +1,2 @@
+*.exe filter=lfs diff=lfs merge=lfs -text
+ideaIU-2025.2.4.exe filter=lfs diff=lfs merge=lfs -text
